@@ -4,6 +4,8 @@ int main()
 {
     /* code detalhado para fins didaticos */
     float salarioInicial, salarioFinal;
+    
+    printf("Lucas");
 
     printf("Informe seu rendimento: ");
     scanf("%f", &salarioInicial);
